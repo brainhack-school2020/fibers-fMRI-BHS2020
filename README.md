@@ -12,9 +12,9 @@ For this project, I will be learning how to use new brain imaging tools for grou
 
 ## Project definition 
 
-I will divide my project into 2 sections :
- 1- Familiarise myself with group analyses on diffusion data and functional connectivity
- 2- Learn how to train a machine learning model to predict certain features based on functional connectomes (genetic status could be a great start !)
+I will divide my project into 2 objectives :
+ 1- Learn how to train a machine learning model to predict certain features based on functional connectomes (genetic status could be a great start !)
+ 2- (for fun) Familiarise myself with group analyses on diffusion data
 
 ### Background
 
@@ -38,10 +38,8 @@ I found this great dataset for working with genetic data and functional connecti
 http://preprocessed-connectomes-project.org/abide/
 (thanks Mikkel Schöttner and Andréanne Proulx !)
 
-I will also be working on a dataset of fibromyalgia patients that focuses on music-induced analgesia (MIA), which includes unprocessed structural, diffusion and functional data :
-https://brainlife.io/datasets/5e2f921457e7f20020096db3#%7B%22query%22%3A%22%22%2C%22datatypes%22%3A%5B%5D%7D
-
-A next step could be to generate predictions on pain reports in MIA based on patterns of functional connectivity, or even diagnosis predictions based on diffusion data. 
+I also plan on exploring some diffusion data, I found a dataset of the structural brain networks of gifted children but I think I'll need some other dataset
+( https://openneuro.org/datasets/ds002726/versions/1.0.1 )
 
 ### Deliverables
 
