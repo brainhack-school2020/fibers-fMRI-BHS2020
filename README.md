@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# A template for project reports at BrainHack School
+# fibers - fMRI
 
 Team contributors: the Brainhack School team, Ziad Guenoun, and anyone who wants to contribute !
 
